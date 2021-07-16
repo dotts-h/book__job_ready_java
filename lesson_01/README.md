@@ -4,4 +4,4 @@ This lessons goes through installing the OpenJDK 11 and creating the first progr
 
 [Hello.java][1]
 
-[1]: /Hello.java
+[1]: ./Hello.java
